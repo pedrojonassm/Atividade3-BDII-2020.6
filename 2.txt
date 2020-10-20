@@ -1,0 +1,4 @@
+Diferentes encodificações de caracteres podem receber diferentes caracteres, por exemplo, existem os Encoding de caracteres Coreanos,
+Japoneses, etc.
+
+Já o collate diferencia o sorteio, a separação, dentre outros

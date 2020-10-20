@@ -1,0 +1,13 @@
+    1) acesse o postgres pela powershell 
+        psql -U postgres
+
+    2)use o comando abaixo para criar o usuario do banco de dados
+        create user "EmpresaDB";
+
+    3)sete a senha no comando abaixo: 
+        alter user gamer password 'sla';
+
+    4)em seguida, garanta que ele tenha acesso ao banco de dados (que já deve ter sido criado)
+        grant all on database "Atividade-DCL" to "EmpresaDB";
+
+não sei isso da questão de acesso remoto
